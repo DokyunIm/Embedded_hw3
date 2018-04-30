@@ -1,4 +1,4 @@
-## Embedded Ssytem(2018) - Homework03
+## Embedded System(2018) - Homework03
 
 ***    
 ### Detect_Hum
